@@ -1,0 +1,22 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html,
+body {
+  font-family: "Lato";
+  font-size: 14px;
+  line-height: 1rem; }
+
+.button {
+  height: 2rem;
+  width: auto;
+  margin-right: 1.2rem;
+  margin-top: -.4rem;
+  font-size: .9rem;
+  color: white;
+  background-color: black;
+  border-radius: .4rem; }
